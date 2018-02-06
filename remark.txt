@@ -1,0 +1,2 @@
+API: Gibt DB-Inhalt als JSON aus, JS wird verwendet um das ganze aussehen zu lassen
+
